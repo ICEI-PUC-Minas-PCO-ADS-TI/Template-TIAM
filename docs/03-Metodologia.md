@@ -63,8 +63,8 @@ Atualizado em: 21/04/2024
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
 | AlunaX        | Introdução | 01/02/2024     | 07/02/2024 | ✔️    | 05/02/2024      |
 | AlunaZ        | Objetivos    | 03/02/2024     | 10/02/2024 | 📝    |                 |
-| AlunoY        | Histórias de usuário  | 01/01/2024     | 07/01/2005 | ⌛     |                 |
-| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
+| AlunoY        | Histórias de usuário  | 01/01/2024     | 07/01/2025 | ⌛     |                 |
+| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2025 | ❌    |       |
 
 #### Sprint 2
 
@@ -101,14 +101,9 @@ Coloque informações sobre detalhes da implementação do Scrum seguido pelo gr
 > - [Como criar backlogs no GitHub](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 > - [Tutorial slack](https://slack.com/intl/en-br/)
 
+## Ferramentas
 
-## Relação de ambientes de trabalho
-
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. Todos os ambientes e frameworks utilizados no desenvolvimento da aplicação estão listados na seção abaixo.
-
-### Ferramentas
-
-Liste todas as ferramentas que foram empregadas no projeto, justificando a escolha delas, sempre que possível.
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A relação dos ambientes com seus respectivos propósitos deverá ser apresentada em uma tabela que especifique e detalhe Ambiente, Plataforma e Link de Acesso. Sempre que possível, inclua também frameworks, bibliotecas e demais tecnologias utilizadas, indicando seu uso em contextos específicos, como aplicações móveis, web ou outros.
 
 Exemplo: os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
@@ -119,4 +114,3 @@ Exemplo: os artefatos do projeto são desenvolvidos a partir de diversas platafo
 | Projeto de interface                | Figma                              | http://....                            |
 | Gerenciamento do projeto            | GitHub Projects                    | http://....                            |
 | Hospedagem                          | Vercel                             | http://....                            |
- 
